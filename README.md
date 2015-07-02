@@ -15,7 +15,7 @@ Trello with preliminary user stories (still needs to be further vetted): https:/
 
 ## Wireframes
 
-Links to wireframes of your project. Ideally embed them in this README.
+http://imgur.com/jkw4vLX
 
 ## Models
 ```
