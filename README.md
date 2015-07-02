@@ -31,5 +31,7 @@ playlistId: ""
 
 ## APIs, Plugins, Libraries and Frameworks
 google knowledge base: https://developer.chrome.com/extensions/getstarted
+
 soundcloud: https://developers.soundcloud.com/docs/api/html5-widget
+
 soundcloud: https://developers.soundcloud.com/docs/api/guide
