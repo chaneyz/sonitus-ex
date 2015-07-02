@@ -15,7 +15,7 @@ Trello with preliminary user stories (still needs to be further vetted): https:/
 
 ## Wireframes
 
-http://imgur.com/jkw4vLX
+http://i.imgur.com/jkw4vLX.jpg
 
 ## Models
 ```
