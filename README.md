@@ -30,8 +30,17 @@ playlistId: ""
 ```
 
 ## APIs, Plugins, Libraries and Frameworks
+API: 
 google knowledge base: https://developer.chrome.com/extensions/getstarted
 
 soundcloud: https://developers.soundcloud.com/docs/api/html5-widget
 
 soundcloud: https://developers.soundcloud.com/docs/api/guide
+
+Framework: 
+maybe backbone
+
+Library: 
+jQuery, React, Underscore
+
+
