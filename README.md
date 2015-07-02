@@ -1,7 +1,7 @@
 # Sonitus Ex
 
 ## Desciption
-Currently, the best way to play music via the SoundCloud site is through their web site. However, this is a bit restrictive because it means you must keep a browser 'window/tab' open to stream audio. If you use the web daily for work and utilize many tabs and browser windows in can become a pain to try and find the open SoundCloud page.
+Currently, the best way to play music via the SoundCloud site is through their website. However, this is a bit restrictive because it means you must keep a browser 'window/tab' open to stream audio. If you use the web daily for work and utilize many tabs and browser windows in can become a pain to try and find the open SoundCloud page.
 
 Enter Sonitus Ex. The plan is to create a Google Chrome Web Extension that utilizes the SoundCloud API to import and play a logged in user's playlists. This should eliminate the need for a user to keep a browser window or tab open to stream audio from SoundCloud.
 
