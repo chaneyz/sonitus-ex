@@ -15,7 +15,7 @@ Trello with preliminary user stories (still needs to be further vetted): https:/
 
 ## Wireframes
 
-http://i.imgur.com/jkw4vLX.jpg
+
 
 ## Models
 ```
@@ -24,23 +24,6 @@ UserModel -
   "id": 3207,
   "permalink": "jwagener",
   "username": "Johannes Wagener",
-  "uri": "http://api.soundcloud.com/users/3207",
-  "permalink_url": "http://soundcloud.com/jwagener",
-  "avatar_url": "http://i1.sndcdn.com/avatars-000001552142-pbw8yd-large.jpg?142a848",
-  "country": "Germany",
-  "full_name": "Johannes Wagener",
-  "city": "Berlin",
-  "description": "<b>Hacker at SoundCloud</b>\r\n\r\nSome of my recent Hacks:\r\n\r\nsoundiverse.com \r\nbrowse recordings with the FiRe app by artwork\r\n\r\ntopbillin.com \r\nfind people to follow on SoundCloud\r\n\r\nchatter.fm \r\nget your account hooked up with a voicebox\r\n\r\nrecbutton.com \r\nrecord straight to your soundcloud account",
-  "discogs_name": null,
-  "myspace_name": null,
-  "website": "http://johannes.wagener.cc",
-  "website_title": "johannes.wagener.cc",
-  "online": true,
-  "track_count": 12,
-  "playlist_count": 1,
-  "followers_count": 417,
-  "followings_count": 174,
-  "public_favorites_count": 26
 }
 
 PlaylistModel -
@@ -395,6 +378,9 @@ PlaylistModel -
     }
   ]
 }
+
+TrackModel -
+
 ```
 
 ## APIs, Plugins, Libraries and Frameworks
@@ -406,7 +392,7 @@ soundcloud: https://developers.soundcloud.com/docs/api/html5-widget
 soundcloud: https://developers.soundcloud.com/docs/api/guide
 
 Framework: 
-backbone
+backbone, express
 
 Library: 
 jQuery, React, Underscore
