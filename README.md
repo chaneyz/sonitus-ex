@@ -406,7 +406,7 @@ soundcloud: https://developers.soundcloud.com/docs/api/html5-widget
 soundcloud: https://developers.soundcloud.com/docs/api/guide
 
 Framework: 
-maybe backbone
+backbone
 
 Library: 
 jQuery, React, Underscore
