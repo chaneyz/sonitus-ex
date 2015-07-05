@@ -11,11 +11,11 @@ Finally, the first iteration of Sonitus Ex will mainly integrate to a user's pla
 
 ## User Stories
 
-Trello with preliminary user stories (still needs to be further vetted): https://trello.com/b/eUVc3w3D/sonitus-ex
+Trello with preliminary user stories: https://trello.com/b/eUVc3w3D/sonitus-ex
 
 ## Wireframes
 
-
+https://www.dropbox.com/s/kvtb98qcigzeq0f/sonitus_ex.pdf?dl=0
 
 ## Models
 ```
