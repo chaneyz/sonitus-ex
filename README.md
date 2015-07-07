@@ -391,7 +391,7 @@ soundcloud: https://developers.soundcloud.com/docs/api/html5-widget
 
 soundcloud: https://developers.soundcloud.com/docs/api/guide
 
-app link at: https://soundcloud.com/you/apps/sonitus-ex-1/
+app link at: https://soundcloud.com/you/apps/sonitus-ex-1/edit
 
 Framework: 
 backbone, express
